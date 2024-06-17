@@ -6,7 +6,7 @@ Java, kotlin software engineer.
 
 ньюген.
 
-### Skills -
+### Skills
 
 
 <p align="left">
