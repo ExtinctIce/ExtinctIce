@@ -4,7 +4,7 @@ Hi! I'm Extinct.
 Java, kotlin software engineer.
 ------------------------------
 
-ньюген
+джавист ньюген
 
 ### Skills
 
