@@ -4,7 +4,7 @@ Hi! I'm Extinct.
 Java, kotlin software engineer-
 ------------------------------
 
-плохой джавист по масти
+плохой джавист по масти.
 
 ### Skills
 
