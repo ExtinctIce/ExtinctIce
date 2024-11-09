@@ -1,2 +1,2 @@
-Hi! I'm Extinct
+Hi! I'm Extinct.
 
