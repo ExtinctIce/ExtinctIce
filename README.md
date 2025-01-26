@@ -72,8 +72,6 @@
       <br>Next.js
     </td>
   </tr>
-  <tr>
-  <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=firebase" width="43" height="43" alt="Firebase" />
       <br>Firebase
@@ -86,8 +84,6 @@
       <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="45" height="55" />
       <br>Redis
     </td>
-  </tr>
-  <tr>
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="43" height="43" alt="Docker" />
       <br>Docker
