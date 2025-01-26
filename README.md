@@ -23,18 +23,6 @@
       <br>Sass
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="43" height="43" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=babel" width="43" height="43" alt="Babel" />
-      <br>Babel
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=threejs" width="43" height="43" alt="Three.js" />
-      <br>Three.js
-    </td>
-    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=solidity" width="43" height="43" alt="Solidity" />
       <br>Solidity
     </td>
