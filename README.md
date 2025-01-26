@@ -64,10 +64,6 @@
       <br>RESTful API
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="45" height="55" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=nextjs" width="43" height="43" alt="Next.js" />
       <br>Next.js
     </td>
