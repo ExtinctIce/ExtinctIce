@@ -22,10 +22,6 @@
       <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="45" height="55" />
       <br>Sass
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=solidity" width="43" height="43" alt="Solidity" />
-      <br>Solidity
-    </td>
   </tr>
 
   <tr>
