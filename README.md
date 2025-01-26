@@ -89,8 +89,5 @@
       <br>GitHub
     </td>
   </tr>
-  <tr>
-    <td colspan="2"></td> <!-- Empty space to maintain row structure -->
-  </tr>
 </table>
 </p>
