@@ -95,6 +95,6 @@
   </tr>
 </table>
 </p>
-https://www.codewars.com/users/LxrdExtinct/badges/small
+<p>https://www.codewars.com/users/LxrdExtinct/badges/small</p>
 
 
